@@ -1,2 +1,2 @@
-# dinos2
+# dinos
 jueguitos
